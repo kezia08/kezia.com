@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<html lang="id">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Happy Birthday</title>
+
+  <style>
+    body {
+      background-color: #f0f8ff;
+      font-family: 'Arial', sans-serif;
+      color: #333;
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #ff6347;
+    }
+
+    p {
+      font-size: 18px;
+      color: #666;
+    }
+
+    #content {
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      max-width: 600px;
+      margin: 20px auto;
+    }
+  </style>
+</head>
+
+<body>
+  <h1> Happy birthday! </h1>
+
+  </head>
+
+  <body>
+
+    <h1 id="closed-message">Bisa tunggu gak? -_- </h1>
+
+    <div id="content">
+
+      <h2> Met ultah </h2>
+      <p> Makin tua yekk udah otw jadi om om hihihii 😋
+      <p>
+
+      <p>Panjang umur, sehat selalu, disayang Tuhan juga hehehe. Makin tak sayang ga yaa? hhmm gtw lah hihihii ♡♡♡</p>
+      <p> Jaga diri baik baik awas aja sampe aneh aneh gelud kita nanti -_-
+      <p>
+      <p> Ok lanjut, semoga bisa makin deket sama keluarga, makin deket sama Tuhan juga hehehe
+      <p>
+      <p> Semangatt yaa dalam jalanin apapun, kalo ada apa apa bilang jangan di pendem sendiri -_-
+      <p>
+      <p> Aku harap dengan bertambahnya usia, kakak bisa makin dewasa lagi
+      <p>
+      <p> Trus trus, bisa makin pinter lagi,. makin makin pokoknya hehehe
+      <p>
+      <p> pokoknya apapun yang disemogakan bisa tersemogakan
+      <p>
+      <p>
+      <p> Jujurly aku enggak terlalu ngerti ginian tapi gpp lahh yaa hehehehe. Sebel tau pas bikin ginian mana pake hp lagi aku buatnya huhuhuu:)
+      <p> bingung mau ngomong apalagi, banyak padahal yang mau aku omongin
+      <p>
+      <p> Intinya aku berharap di hari ulang tahun kakak kali ini, semua impiannya kakak bisa terwujud dan segala hal baik selalu datang menghampiri. Semoga jga juga kakak selalu dikelilingi sama kebahagiaan, cinta, dan kesuksesan dalam setiap langkah kakak
+      <p>
+      <p> Sorry ya kalo aku ga bisa ucapin secara langsung, ya jadinya aku buat ginian,. Agak aneh kan ya wkwkwk yaa udah lah
+      <p>
+      <p> HABEDE POKOKNYAAA!
+      <P>
+
+    </div>
+
+    <script src="script.js"></script>
+
+  </body>
+
+</html>
+
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SVG Heart</title>
+  <style>
+    .svg-heart {
+      display: block;
+      margin: 50px auto;
+      width: 100px;
+      height: 100px;
+    }
+  </style>
+</head>
+
+<body>
+  <svg class="svg-heart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 29.6">
+    <path fill="red" d="M23.6,0C20.7,0,18,1.5,16,3.9C14,1.5,11.3,0,8.4,0C3.8,0,0,3.8,0,8.4c0,4.5,3.2,7.4,8,12.1 c4.5,4.3,7.3,7,7.6,7.2c0.2,0.2,0.6,0.2,0.8,0c0.3-0.2,3.1-2.9,7.6-7.2c4.8-4.7,8-7.6,8-12.1C32,3.8,28.2,0,23.6,0z" />
+  </svg>
+</body>
+
+</html>
